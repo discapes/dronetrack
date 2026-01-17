@@ -1,4 +1,4 @@
-# Peltipoliisi2 – Real-Time Event Camera RPM & Motion Analyzer
+# DroneTrack – Real-Time Event Camera RPM & Motion Analyzer
 
 **SensoFusion challenge submission**
 
